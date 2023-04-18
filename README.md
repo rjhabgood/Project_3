@@ -11,6 +11,9 @@
 [Prensentation Link](https://docs.google.com/presentation/d/1eb7Te0I8TU6Q_jBT9F4Fd7AI6qlN6L8rRtMT3MaH9Ys/edit?usp=sharing)
 
 ## About
+
+Our team's goal was to utlizie the happiness and weather datasets to draw insights on what makes people happy around the world. We wanted to determine if there were any correlations between country gdp, life expectancy, social support, weather, etc.
+
 [World Happiness Dataset](https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021)
 - The World Happiness Report is a landmark survey of the state of global happiness . The report continues to gain global recognition as governments, organizations and civil society increasingly use happiness indicators to inform their policy-making decisions. Leading experts across fields – economics, psychology, survey analysis, national statistics, health, public policy and more – describe how measurements of well-being can be used effectively to assess the progress of nations. The reports review the state of happiness in the world today and show how the new science of happiness explains personal and national variations in happiness.
 - The happiness scores and rankings use data from the Gallup World Poll . The columns following the happiness score estimate the extent to which each of six factors – economic production, social support, life expectancy, freedom, absence of corruption, and generosity – contribute to making life evaluations higher in each country than they are in Dystopia, a hypothetical country that has values equal to the world’s lowest national averages for each of the six factors. They have no impact on the total score reported for each country, but they do explain why some countries rank higher than others.
@@ -31,7 +34,13 @@
 
 
 ## Summary
-Our team's goal was to utlizie the happiness and weather datasets to draw insights on what makes people happy around the world. We wanted to determine if there were any correlations between country gdp, life expectancy, social support, weather, etc. We then created visualizations of the cleaned/merged datasets to draw conclusions. 
+- We started by cleaning and merging our happiness and weather datasets with Python, Pandas, and Numpy
+- SQLAlchemy was introduced to push/house our cleaned dataset in pgAdmin.
+- Developed a SQL query to access the tables in pgAdmin.
+- Python Flask API (app.py) used to create an API that accesses our database. 
+- Config.py to ensure we have the right credentials to access our database. 
+- Utilized the JS and CSS static files to develop the visualization and look/feel of the dashboard. 
+- HTML files created to properly load each JS file. 
 
 ## Visualizations
 **Leaflet Happiness Map**
