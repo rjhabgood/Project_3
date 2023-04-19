@@ -51,3 +51,4 @@ Our team's goal was to utlizie the happiness and weather datasets to draw insigh
 ![Screenshot 2023-04-18 at 1 04 19 PM](https://user-images.githubusercontent.com/10196762/232851848-e101ea6d-aa74-4185-b190-f04fe92751dd.png)
 - The dataset displays a correlation between high GDP per capita and longer life expectancy. Citizens that live in countries with a higher GDP have longer life expectancies and social support (bubble colors). 
 
+[logged gdp (2).xlsx](https://github.com/rjhabgood/Project_3/files/11272573/logged.gdp.2.xlsx)
