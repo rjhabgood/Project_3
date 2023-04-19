@@ -12,7 +12,7 @@
 
 ## About
 
-Our team's goal was to utlizie the happiness and weather datasets to draw insights on what makes people happy around the world. We wanted to determine if there were any correlations between country gdp, life expectancy, social support, weather, etc.
+Our team's goal was to utilize the happiness and weather datasets to draw insights on what makes people happy around the world. We wanted to determine if there were any correlations between country gdp, life expectancy, social support, weather, etc.
 
 [World Happiness Dataset](https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021)
 - The World Happiness Report is a landmark survey of the state of global happiness . The report continues to gain global recognition as governments, organizations and civil society increasingly use happiness indicators to inform their policy-making decisions. Leading experts across fields – economics, psychology, survey analysis, national statistics, health, public policy and more – describe how measurements of well-being can be used effectively to assess the progress of nations. The reports review the state of happiness in the world today and show how the new science of happiness explains personal and national variations in happiness.
